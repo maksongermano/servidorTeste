@@ -1,0 +1,18 @@
+{
+  "name": "primeiro-servidor-express",
+  "version": "1.0.0",
+  "description": "meu primeiro servidor usando http",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Makson Matheus Germano Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
